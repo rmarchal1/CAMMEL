@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.11.8)  29 JUN 2020 09:46
+This is XeTeX, Version 3.14159265-2.6-0.99998 (TeX Live 2017) (preloaded format=xelatex 2017.11.8)  23 SEP 2020 15:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -774,28 +774,34 @@ Overfull \hbox (85.95616pt too wide) in paragraph at lines 102--103
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Overfull \hbox (73.80444pt too wide) in paragraph at lines 105--106
+[]\TU/lmr/bx/n/12 Install the Python3 additional graphical Libraries : \TU/lmr/
+m/n/12 sudo /opt/local/bin/pip3.6
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 110--111
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 [5]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 144.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 145.
  [6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 144.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 145.
  (./manual.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 144.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 144.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 144.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 145.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 145.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 145.
  ) 
 Here is how much of TeX's memory you used:
  20142 strings out of 493005
  323236 string characters out of 6134596
- 464183 words of memory out of 5000000
+ 465183 words of memory out of 5000000
  23803 multiletter control sequences out of 15000+600000
  8717 words of font info for 42 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191

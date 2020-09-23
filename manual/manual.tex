@@ -93,7 +93,7 @@ This recipe is maid for Debian distribution:
 \begin{enumerate}
 \item{\textbf{Installation of the Python3 interpreter:} sudo apt-get install python3}
 \item{\textbf{Installation of pip:} sudo apt-get install python3-pip}
-\item{\textbf{Installation of the python libraries:} sudo pip3 install numpy matplotlib PyOpenGL}
+\item{\textbf{Installation of the python libraries:} sudo pip3 install numpy matplotlib PyOpenGL opencv-python glfw Pillow}
 \end{enumerate}
 
 \subsection{Installation on MacOsX}
@@ -101,7 +101,8 @@ For MacOsX, we strongly suggest the use of macport and to follow this recipe:
 \begin{enumerate}
 \item{\textbf{Install Macport:} see the documentation here: \href{https://www.macports.org/install.php}{https://www.macports.org/install.php}}
 \item{\textbf{Install the Python3 interpreter:} sudo /opt/local/bin/port install python36}
-\item{\textbf{Install the Python3 libraries:} sudo /opt/local/bin/port install py36-matplotlib py36-numpy py36-opengl}
+\item{\textbf{Install the Python3 libraries:} sudo /opt/local/bin/port install py36-matplotlib py36-numpy py36-opengl py36-pip}
+\item{\textbf{Install the Python3 additional graphical Libraries:} sudo /opt/local/bin/pip3.6 install opencv-python glfw Pillow}
 \end{enumerate}
 
 \section{How is the electrostatic potential calculated and represented?}
@@ -138,7 +139,7 @@ If you publish some results from CAMMEL, please cite the following paper:\\
 \textit{Tetrathiafulvalene-Based Helicene Ligand in the Design of a Dysprosium Field-Induced Single-Molecule Magnet}, F. Pointillart, J. Ou-Yang, G. Fernandez Garcia, V. Montigaud, J. Flores Gonzalez, R. Marchal, L. Favereau, F. Totti, J. Crassous, O. Cador, L. Ouahab, B. Le Guennic, \textbf{Inorganic Chemistry}, 2019, 58, 1, 52–56 
 
 
-\subsection{Cantact}
+\subsection{Contact}
 Please contact Boris (boris.leguennic@univ-rennes1.fr) for scientific support and Rémi (remi.marchal@univ-rennes1.fr) for technical support.
 
 \end{document}

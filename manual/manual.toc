@@ -14,4 +14,4 @@
 \contentsline {subsubsection}{\numberline {3.2.3}Other features of the representation of the potential}{5}{subsubsection.3.2.3}
 \contentsline {section}{\numberline {4}Citation and contact}{6}{section.4}
 \contentsline {subsection}{\numberline {4.1}Citation}{6}{subsection.4.1}
-\contentsline {subsection}{\numberline {4.2}Cantact}{6}{subsection.4.2}
+\contentsline {subsection}{\numberline {4.2}Contact}{6}{subsection.4.2}
