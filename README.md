@@ -8,7 +8,8 @@ The CAlculated-Molecular Multipolar ELectrostatics (CAMMEL) software is an open-
 This Software have been developed in the Institut des Sciences Chimiques de Rennes (ISCR UMR CNRS 6226, University of Rennes1) by Rémi Marchal (Computer engineer), Boris Le Guennic (CNRS Research Director), Guglielmo Fernandez-Garcia (PhD) and Vincent Montigaud (PhD).
 # Software Requirement
 ## OS requirement
-Linux or MacOS
+Linux or MacOS.</br>
+CAMMEL4.0 have been tested n MacOS10.12 and later versions and on Debian and Ubuntu Linux distributions
 ## Python requirement
 CAMMEL is a written in Python3 and pyOpenGL and needs the following python3 libraries to be installed:
 - numpy
@@ -17,7 +18,7 @@ CAMMEL is a written in Python3 and pyOpenGL and needs the following python3 libr
 - opencv
 - glfw
 - Pillow </br>
-**Detailed installation instruction can be found in the Manual.**
+**Detailed installation instructions can be found in the Manual.**
 ## Molcas and OpenMolcas version
 CAMMEL have been tested and is compatible with the following versions:
 - Molcas80
