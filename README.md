@@ -19,7 +19,7 @@ CAMMEL is a written in Python3 and pyOpenGL and needs the following python3 libr
 - Pillow </br>
 Detailed installation instruction can be found in the Manual.
 ## Molcas and OpenMolcas version
-The software have been tested and is compatible with the following versions:
+CAMMEL have been tested and is compatible with the following versions:
 - Molcas80
 - Molcas82
 - Molcas84
