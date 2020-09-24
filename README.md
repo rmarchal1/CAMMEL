@@ -18,6 +18,7 @@ CAMMEL is a written in Python3 and pyOpenGL and needs the following python3 libr
 - opencv
 - glfw
 - Pillow </br>
+Installation will take about 15 to 30 minutes.</br>
 **Detailed installation instructions can be found in the Manual.**
 ## Environment variables
 CAMMEL needs the folowing environment variables:
@@ -34,7 +35,7 @@ CAMMEL have been tested and is compatible with the following versions:
 # How to run CAMMEL
 If the installation process ended properly, you just have to execute the CAMMEL.py with your Python3 interpreter.
 # Examples
-Examples are provided in the examples directory
+Examples are provided in the examples directory. Running the examples is doable within 10 minutes.
 # Citations
 If you are using CAMMEL, please cite the following papers:
 - *Magnetic Slow Relaxation in a Metal–Organic Framework Made of Chains of Ferromagnetically Coupled Single-Molecule Magnets*, G. Huang,G. Fernandez-Garcia,I. Badiane, M. Camarra, S. Freslon, O. Guillou, C. Daiguebonne, F. Totti, O. Cador, T. Guizouarn, B. Le Guennic, K. Bernot, **Chem. Eur. J.**, 2018, 24, 6983
