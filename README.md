@@ -33,9 +33,10 @@ CAMMEL have been tested and is compatible with the following versions:
 - OpenMolcas18
 - OpenMolcas19
 # How to run CAMMEL
-If the installation process ended properly, you just have to execute the CAMMEL.py with your Python3 interpreter.
+If the installation process ended properly, you just have to execute the CAMMEL.py with your Python3 interpreter. 
 # Examples
-Examples are provided in the examples directory. Running the examples is doable within 10 minutes.
+Examples are provided in the examples directory. Running all examples is doable within 10 minutes. </br>
+The code runs in real time and the results pop up immediately.
 # Citations
 If you are using CAMMEL, please cite the following papers:
 - *Magnetic Slow Relaxation in a Metal–Organic Framework Made of Chains of Ferromagnetically Coupled Single-Molecule Magnets*, G. Huang,G. Fernandez-Garcia,I. Badiane, M. Camarra, S. Freslon, O. Guillou, C. Daiguebonne, F. Totti, O. Cador, T. Guizouarn, B. Le Guennic, K. Bernot, **Chem. Eur. J.**, 2018, 24, 6983
