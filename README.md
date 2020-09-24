@@ -37,4 +37,4 @@ If the installation process ended properly, you just have to execute the CAMMEL.
 Examples are provided in the examples directory
 # Citations
 If you are using CAMMEL, please cite the following papers:
-- Chemistry (Bernot 2018 24 6983)
+- *Magnetic Slow Relaxation in a Metal–Organic Framework Made of Chains of Ferromagnetically Coupled Single-Molecule Magnets*, G. Huang,G. Fernandez-Garcia,I. Badiane, M. Camarra, S. Freslon, O. Guillou, C. Daiguebonne, F. Totti, O. Cador, T. Guizouarn, B. Le Guennic, K. Bernot, **Chemistry**, 2018, 24, 6983
