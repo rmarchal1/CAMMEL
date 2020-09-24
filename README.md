@@ -22,7 +22,7 @@ CAMMEL is a written in Python3 and pyOpenGL and needs the following python3 libr
 ## Environment variables
 CAMMEL needs the folowing environment variables:
 - $CAMMEL="directory of the CAMMEL installation"
-- Appending PYTHONPATH by "directory of the CAMMEL installation"/source
+- Appending PYTHONPATH by "directory of the CAMMEL installation"/source </br>
 **Detailed instruction for environment variables settings are given in the Manual.**
 ## Molcas and OpenMolcas version
 CAMMEL have been tested and is compatible with the following versions:
