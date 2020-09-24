@@ -9,7 +9,7 @@ This Software have been developed in the Institut des Sciences Chimiques de Renn
 # Software Requirement
 ## OS requirement
 Linux or MacOS.</br>
-CAMMEL4.0 have been tested n MacOS10.12 and later versions and on Debian and Ubuntu Linux distributions
+CAMMEL4.0 have been tested on MacOS10.12 and later versions and on Debian and Ubuntu Linux distributions
 ## Python requirement
 CAMMEL is a written in Python3 and pyOpenGL and needs the following python3 libraries to be installed:
 - numpy
