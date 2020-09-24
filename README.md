@@ -1,5 +1,4 @@
-The CAlculated-Molecular Multipolar ELectrostatics (CAMMEL) software is an open-source graphical post-treatment software, interfaced with Molcas and OpenMolcas. Various features are implemented
-in this software such as :
+The CAlculated-Molecular Multipolar ELectrostatics (CAMMEL) software is an open-source graphical post-treatment software, interfaced with Molcas and OpenMolcas. Various features are implementedin this software such as :\n
 — Wave function decomposition
 — Representation of the magnetization curve
 — Representation of the Ab initio Transition barriers
