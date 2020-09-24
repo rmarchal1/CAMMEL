@@ -35,3 +35,6 @@ CAMMEL have been tested and is compatible with the following versions:
 If the installation process ended properly, you just have to execute the CAMMEL.py with your Python3 interpreter.
 # Examples
 Examples are provided in the examples directory
+# Citations
+If you are using CAMMEL, please cite the following papers:
+- Chemistry (Bernot 2018 24 6983)
