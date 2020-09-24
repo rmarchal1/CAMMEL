@@ -6,7 +6,15 @@ The CAlculated-Molecular Multipolar ELectrostatics (CAMMEL) software is an open-
 - Representation of the susceptibility curve
 - Computation and representation of the electrostatic potential surrounding lanthanide atoms <br/>
 This Software have been developed in the Institut des Sciences Chimiques de Rennes (ISCR UMR CNRS 6226, University of Rennes1) by Rémi Marchal (Computer engineer), Boris Le Guennic (CNRS Research Director), Guglielmo Fernandez-Garcia (PhD) and Vincent Montigaud (PhD).
-# Installation and detailed description of the software
+# Software Requirement
+CAMMEL is a written in Python3 and pyOpenGL and needs the following python3 libraries to be installed:
+- numpy
+- matpplotlib
+- pyOpenGL
+- opencv
+- glfw
+- Pillow
+## Installation and detailed description of the software
 For more details and installation instruction, please refer to the Manual
 # Examples
 Examples are provided in the examples directory
